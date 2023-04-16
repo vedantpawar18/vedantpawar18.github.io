@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d078ab2b.css",
+    "main.js": "/static/js/main.c322abfb.js",
+    "static/media/loading-79.gif": "/static/media/loading-79.79b307f2942c20fdd6b3.gif",
+    "static/media/school app.png": "/static/media/school app.7f0dd16b1017e7071863.png",
+    "static/media/cricInfo.png": "/static/media/cricInfo.688cb57e9a2997f851cf.png",
+    "static/media/masai-onwards.png": "/static/media/masai-onwards.678fd8965ad6fe338e09.png",
+    "static/media/votek.png": "/static/media/votek.820b3b6ac41dcba6d1e6.png",
+    "static/media/vedant.jpg": "/static/media/vedant.bd92f6d7e597ebfe911e.jpg",
+    "index.html": "/index.html",
+    "main.d078ab2b.css.map": "/static/css/main.d078ab2b.css.map",
+    "main.c322abfb.js.map": "/static/js/main.c322abfb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d078ab2b.css",
+    "static/js/main.c322abfb.js"
+  ]
+}
