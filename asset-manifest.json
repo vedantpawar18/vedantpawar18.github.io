@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1987bf8d.css",
-    "main.js": "/static/js/main.05cb6ed1.js",
+    "main.js": "/static/js/main.1fd11f05.js",
     "static/media/loading-79.gif": "/static/media/loading-79.79b307f2942c20fdd6b3.gif",
     "static/media/school app.png": "/static/media/school app.7f0dd16b1017e7071863.png",
     "static/media/cricInfo.png": "/static/media/cricInfo.688cb57e9a2997f851cf.png",
@@ -10,10 +10,10 @@
     "static/media/vedant.jpg": "/static/media/vedant.bd92f6d7e597ebfe911e.jpg",
     "index.html": "/index.html",
     "main.1987bf8d.css.map": "/static/css/main.1987bf8d.css.map",
-    "main.05cb6ed1.js.map": "/static/js/main.05cb6ed1.js.map"
+    "main.1fd11f05.js.map": "/static/js/main.1fd11f05.js.map"
   },
   "entrypoints": [
     "static/css/main.1987bf8d.css",
-    "static/js/main.05cb6ed1.js"
+    "static/js/main.1fd11f05.js"
   ]
 }
